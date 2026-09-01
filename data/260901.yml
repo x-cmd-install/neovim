@@ -1,0 +1,71 @@
+about:
+  description: Vim-fork focused on extensibility and usability
+  license: NOASSERTION
+  homepage: https://neovim.io
+  head: ca992e8
+  archived: false
+  latestVersion: nightly
+  collectedAt: 2026-09-01T05:44:42Z
+timeline:
+  created: 2014-01-31
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 102049
+  watcher: 1004
+  fork: 7067
+  release: 55
+  contributor: 1906
+  pullRequest: 5795
+  issue: 14531
+language:
+  Vim Script: 16806309
+  Lua: 13836254
+  C: 11427537
+  CMake: 156121
+  Zig: 72957
+  Shell: 57545
+  JavaScript: 39476
+  Tree-sitter Query: 29956
+  HTML: 12301
+  Makefile: 11100
+  Roff: 9360
+  Python: 8405
+  C++: 5852
+  Batchfile: 320
+  CSS: 199
+  Ruby: 182
+totalLine: 42473874
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 261
+    openPR: 35
+    closedIssue: 64
+    openIssue: 34
+    commit: 398
+  last90d:
+    since: 2026-06-03
+    release: 5
+    mergedPR: 873
+    openPR: 71
+    closedIssue: 221
+    openIssue: 102
+    commit: 1455
+  last180d:
+    since: 2026-03-05
+    release: 9
+    mergedPR: 1954
+    openPR: 114
+    closedIssue: 562
+    openIssue: 226
+    commit: 2883
+  last360d:
+    since: 2025-09-06
+    release: 11
+    mergedPR: 3451
+    openPR: 155
+    closedIssue: 1042
+    openIssue: 314
+    commit: 5397
