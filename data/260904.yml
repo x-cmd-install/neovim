@@ -7,13 +7,13 @@ about:
   head: 06bff27
   archived: false
   latestVersion: nightly
-  collectedAt: 2026-09-04T20:10:04Z
+  collectedAt: 2026-09-04T20:30:38Z
 timeline:
   created: 2014-01-31
   lastCommit: 2026-09-04
   lastRelease: 2026-09-04
 popularity:
-  star: 102120
+  star: 102121
   watcher: 1005
   fork: 7078
   release: 55
@@ -96,7 +96,7 @@ total:
   commit: 37992
 ---
 path: /home/runner/.x-repo/github.com/neovim/neovim
-collectedAt: 2026-09-04T20:10:26Z
+collectedAt: 2026-09-04T20:31:03Z
 loc:
   VimScript:
     code: 411400
