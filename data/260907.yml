@@ -2,99 +2,99 @@ about:
   description: "Vim-fork focused on extensibility and usability"
   license: NOASSERTION
   homepage: https://neovim.io
-  head: 36cc62b
+  head: 8d5ebdf
   archived: false
   latestVersion: "nightly"
-  collectedAt: 2026-09-07T04:25:41Z
+  collectedAt: 2026-09-07T19:54:39Z
 timeline:
   created: 2014-01-31
   lastCommit: 2026-09-07
-  lastRelease: 2026-09-06
+  lastRelease: 2026-09-07
 popularity:
-  star: 102201
+  star: 102210
   watcher: 1007
-  fork: 7093
+  fork: 7094
   release: 55
   contributor: 1907
-  pullRequest: 25675
-  issue: 14579
+  pullRequest: 25685
+  issue: 14583
 language:
   Vim Script: 16822685
-  Lua: 14116498
-  C: 11486642
-  CMake: 156205
+  Lua: 14120922
+  C: 11486788
+  CMake: 156608
   Zig: 72957
-  Shell: 57695
+  Shell: 58249
   JavaScript: 39476
   Tree-sitter Query: 29956
   HTML: 12301
-  Makefile: 11100
+  Makefile: 10991
   Roff: 9360
   Python: 8405
   C++: 5852
   Batchfile: 320
   CSS: 199
   Ruby: 182
-totalBytes: 42829833
+totalBytes: 42835251
 recent:
   last30d:
     since: 2026-08-08
     release: 3
-    mergedPR: 262
-    openPR: 48
-    closedIssue: 66
-    openIssue: 52
-    commit: 361
+    mergedPR: 273
+    openPR: 46
+    closedIssue: 67
+    openIssue: 55
+    commit: 385
   last60d:
     since: 2026-07-09
     release: 3
-    mergedPR: 613
-    openPR: 63
-    closedIssue: 158
-    openIssue: 91
-    commit: 958
+    mergedPR: 625
+    openPR: 60
+    closedIssue: 159
+    openIssue: 94
+    commit: 984
   last90d:
     since: 2026-06-09
     release: 5
-    mergedPR: 924
-    openPR: 83
-    closedIssue: 233
-    openIssue: 125
-    commit: 1435
+    mergedPR: 936
+    openPR: 80
+    closedIssue: 234
+    openIssue: 128
+    commit: 1461
   last180d:
     since: 2026-03-11
     release: 9
-    mergedPR: 1987
-    openPR: 129
-    closedIssue: 572
-    openIssue: 247
-    commit: 2830
+    mergedPR: 1999
+    openPR: 126
+    closedIssue: 573
+    openIssue: 250
+    commit: 2856
   last360d:
     since: 2025-09-12
     release: 11
-    mergedPR: 3483
-    openPR: 168
-    closedIssue: 1054
-    openIssue: 334
-    commit: 5336
+    mergedPR: 3495
+    openPR: 165
+    closedIssue: 1055
+    openIssue: 337
+    commit: 5362
   last720d:
     since: 2024-09-17
     release: 19
-    mergedPR: 6246
-    openPR: 209
-    closedIssue: 2281
-    openIssue: 631
-    commit: 7384
+    mergedPR: 6258
+    openPR: 205
+    closedIssue: 2282
+    openIssue: 634
+    commit: 7406
 total:
   release: 55
-  mergedPR: 19856
-  openPR: 290
-  closedIssue: 12974
-  openIssue: 1605
-  commit: 38012
+  mergedPR: 19868
+  openPR: 286
+  closedIssue: 12976
+  openIssue: 1607
+  commit: 38034
 ---
 path: /home/runner/.x-repo/github.com/neovim/neovim
-collectedAt: 2026-09-07T04:26:45Z
+collectedAt: 2026-09-07T19:55:27Z
 loc:
   VimScript:
     code: 411511
@@ -102,13 +102,13 @@ loc:
     blanks: 20626
     files: 2045
   Lua:
-    code: 347447
-    comments: 62132
-    blanks: 33349
-    files: 854
+    code: 347569
+    comments: 62126
+    blanks: 33344
+    files: 853
   C:
-    code: 274831
-    comments: 51360
+    code: 274833
+    comments: 51361
     blanks: 32564
     files: 227
   CHeader:
@@ -117,9 +117,9 @@ loc:
     blanks: 3067
     files: 303
   CMake:
-    code: 2923
+    code: 2935
     comments: 336
-    blanks: 486
+    blanks: 487
     files: 43
   Zig:
     code: 1549
@@ -132,8 +132,8 @@ loc:
     blanks: 313
     files: 20
   Sh:
-    code: 1243
-    comments: 164
+    code: 1257
+    comments: 165
     blanks: 211
     files: 10
   JavaScript:
@@ -147,9 +147,9 @@ loc:
     blanks: 872
     files: 1
   Makefile:
-    code: 276
+    code: 271
     comments: 37
-    blanks: 65
+    blanks: 64
     files: 4
   Python:
     code: 231
@@ -213,19 +213,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 1797
-    blanks: 464
+    comments: 1799
+    blanks: 465
     files: 11
   Text:
     code: 0
     comments: 145990
-    blanks: 27451
+    blanks: 27458
     files: 175
 total:
-  code: 1060911
-  comments: 289349
-  blanks: 119970
-  files: 3740
+  code: 1061056
+  comments: 289347
+  blanks: 119973
+  files: 3739
 ---
 date: "2026-08-24"
 repo:
@@ -324,7 +324,7 @@ checks:
       - 'Warn: 29 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:26:46+00:00
+  collectedAt: 2026-09-07T19:55:28+00:00
   platform:
     darwin/arm64:
       name:  nvim-macos-arm64.tar.gz
