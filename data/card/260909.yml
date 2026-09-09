@@ -1,0 +1,329 @@
+about:
+  description: "Vim-fork focused on extensibility and usability"
+  license: NOASSERTION
+  homepage: https://neovim.io
+  head: 318ea4d
+  archived: false
+  latestVersion: "nightly"
+  latestRelease: "v0.12.5"
+  latestPrerelease: "nightly"
+  collectedAt: 2026-09-09T04:29:36Z
+timeline:
+  created: 2014-01-31
+  lastCommit: 2026-09-09
+  lastVersion: 2026-09-08
+  lastRelease: 2026-08-23
+  lastPrerelease: 2026-09-08
+popularity:
+  star: 102235
+  watcher: 1008
+  fork: 7099
+  release: 55
+  contributor: 1910
+  pullRequest: 25714
+  issue: 14590
+language:
+  Vim Script: 16833457
+  Lua: 14127994
+  C: 11488221
+  CMake: 156608
+  Zig: 72957
+  Shell: 58249
+  JavaScript: 39476
+  Tree-sitter Query: 29956
+  HTML: 12301
+  Makefile: 10991
+  Roff: 9360
+  Python: 8405
+  C++: 5852
+  Batchfile: 320
+  CSS: 199
+  Ruby: 182
+totalBytes: 42854528
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 3
+    mergedPR: 279
+    openPR: 51
+    closedIssue: 68
+    openIssue: 57
+    commit: 408
+  last60d:
+    since: 2026-07-11
+    release: 3
+    mergedPR: 624
+    openPR: 65
+    closedIssue: 158
+    openIssue: 95
+    commit: 1007
+  last90d:
+    since: 2026-06-11
+    release: 4
+    mergedPR: 927
+    openPR: 83
+    closedIssue: 231
+    openIssue: 127
+    commit: 1484
+  last180d:
+    since: 2026-03-13
+    release: 9
+    mergedPR: 1999
+    openPR: 131
+    closedIssue: 573
+    openIssue: 254
+    commit: 2879
+  last360d:
+    since: 2025-09-14
+    release: 11
+    mergedPR: 3495
+    openPR: 170
+    closedIssue: 1055
+    openIssue: 341
+    commit: 5385
+  last720d:
+    since: 2024-09-19
+    release: 19
+    mergedPR: 6266
+    openPR: 210
+    closedIssue: 2281
+    openIssue: 638
+    commit: 7413
+total:
+  release: 55
+  mergedPR: 19885
+  openPR: 291
+  closedIssue: 12979
+  openIssue: 1611
+  commit: 38050
+---
+path: /home/runner/.x-repo/github.com/neovim/neovim
+collectedAt: 2026-09-09T04:30:36Z
+loc:
+  VimScript:
+    code: 411698
+    comments: 21723
+    blanks: 20687
+    files: 2046
+  Lua:
+    code: 347690
+    comments: 62182
+    blanks: 33364
+    files: 853
+  C:
+    code: 274846
+    comments: 51372
+    blanks: 32566
+    files: 227
+  CHeader:
+    code: 16588
+    comments: 3431
+    blanks: 3067
+    files: 303
+  CMake:
+    code: 2935
+    comments: 336
+    blanks: 487
+    files: 43
+  Zig:
+    code: 1549
+    comments: 51
+    blanks: 202
+    files: 9
+  Scheme:
+    code: 1291
+    comments: 122
+    blanks: 313
+    files: 20
+  Sh:
+    code: 1257
+    comments: 165
+    blanks: 211
+    files: 10
+  JavaScript:
+    code: 1139
+    comments: 81
+    blanks: 160
+    files: 5
+  ForgeConfig:
+    code: 884
+    comments: 2015
+    blanks: 872
+    files: 1
+  Makefile:
+    code: 271
+    comments: 37
+    blanks: 64
+    files: 4
+  Python:
+    code: 231
+    comments: 22
+    blanks: 63
+    files: 9
+  Svg:
+    code: 147
+    comments: 0
+    blanks: 0
+    files: 1
+  Xml:
+    code: 90
+    comments: 8
+    blanks: 5
+    files: 2
+  Bash:
+    code: 86
+    comments: 6
+    blanks: 13
+    files: 1
+  Json:
+    code: 80
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 55
+    comments: 19
+    blanks: 2
+    files: 1
+  Autoconf:
+    code: 50
+    comments: 66
+    blanks: 16
+    files: 7
+  Html:
+    code: 35
+    comments: 0
+    blanks: 4
+    files: 2
+  Zsh:
+    code: 30
+    comments: 3
+    blanks: 3
+    files: 1
+  Css:
+    code: 16
+    comments: 0
+    blanks: 0
+    files: 1
+  Batch:
+    code: 11
+    comments: 0
+    blanks: 1
+    files: 5
+  Ruby:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1799
+    blanks: 465
+    files: 11
+  Text:
+    code: 0
+    comments: 146014
+    blanks: 27463
+    files: 175
+total:
+  code: 1061377
+  comments: 289462
+  blanks: 120061
+  files: 3740
+---
+date: "2026-09-07"
+repo:
+  name: github.com/neovim/neovim
+  commit: 8d5ebdf986226e182b26f9590e65f2ad678b1ca3
+scorecard:
+  version: v5.5.0
+  commit: c395761df6afe1a69e476bc60a013a94bcbc153f
+score: 5.2
+checks:
+  - name: Packaging
+    score: -1
+    reason: packaging workflow not detected
+    details:
+      - 'Warn: no GitHub/GitLab publishing workflow detected.'
+  - name: Code-Review
+    score: 7
+    reason: Found 12/16 approved changesets -- score normalized to 7
+    details: null
+  - name: Dangerous-Workflow
+    score: -1
+    reason: no workflows found
+    details: null
+  - name: Maintained
+    score: 10
+    reason: 30 commit(s) and 23 issue activity found in the last 90 days -- score normalized to 10
+    details: null
+  - name: Token-Permissions
+    score: -1
+    reason: No tokens found
+    details: null
+  - name: CII-Best-Practices
+    score: 0
+    reason: no effort to earn an OpenSSF best practices badge detected
+    details: null
+  - name: Security-Policy
+    score: 0
+    reason: security policy file not detected
+    details:
+      - 'Warn: no security policy file detected'
+      - 'Warn: no security file to analyze'
+      - 'Warn: no security file to analyze'
+      - 'Warn: no security file to analyze'
+  - name: Binary-Artifacts
+    score: 10
+    reason: no binaries found in the repo
+    details: null
+  - name: License
+    score: 9
+    reason: license file detected
+    details:
+      - 'Info: project has a license file: LICENSE.txt:0'
+      - 'Warn: project license file does not contain an FSF or OSI license.'
+  - name: Pinned-Dependencies
+    score: -1
+    reason: no dependencies found
+    details:
+      - 'Info: Possibly incomplete results: error parsing shell code: ^ must follow an expression: scripts/vim-patch.sh:0'
+  - name: Fuzzing
+    score: 0
+    reason: project is not fuzzed
+    details:
+      - 'Warn: no fuzzer integrations found'
+  - name: Branch-Protection
+    score: 3
+    reason: branch protection is not maximal on development and all release branches
+    details:
+      - 'Info: ''allow deletion'' disabled on branch ''master'''
+      - 'Info: ''force pushes'' disabled on branch ''master'''
+      - 'Warn: ''branch protection settings apply to administrators'' is disabled on branch ''master'''
+      - 'Warn: ''stale review dismissal'' is disabled on branch ''master'''
+      - 'Warn: branch ''master'' does not require approvers'
+      - 'Warn: codeowners review is not required on branch ''master'''
+      - 'Warn: ''last push approval'' is disabled on branch ''master'''
+      - 'Warn: ''up-to-date branches'' is disabled on branch ''master'''
+      - 'Info: status check found to merge onto on branch ''master'''
+      - 'Info: PRs are required in order to make changes on branch ''master'''
+  - name: Signed-Releases
+    score: 0
+    reason: Project has not signed or included provenance with any releases.
+    details:
+      - 'Warn: release artifact nightly not signed: https://api.github.com/repos/neovim/neovim/releases/383847350'
+      - 'Warn: release artifact v0.12.5 not signed: https://api.github.com/repos/neovim/neovim/releases/375290921'
+      - 'Warn: release artifact stable not signed: https://api.github.com/repos/neovim/neovim/releases/375290901'
+      - 'Warn: release artifact v0.12.4 not signed: https://api.github.com/repos/neovim/neovim/releases/349171501'
+      - 'Warn: release artifact v0.12.3 not signed: https://api.github.com/repos/neovim/neovim/releases/337566616'
+      - 'Warn: release artifact nightly does not have provenance: https://api.github.com/repos/neovim/neovim/releases/383847350'
+      - 'Warn: release artifact v0.12.5 does not have provenance: https://api.github.com/repos/neovim/neovim/releases/375290921'
+      - 'Warn: release artifact stable does not have provenance: https://api.github.com/repos/neovim/neovim/releases/375290901'
+      - 'Warn: release artifact v0.12.4 does not have provenance: https://api.github.com/repos/neovim/neovim/releases/349171501'
+      - 'Warn: release artifact v0.12.3 does not have provenance: https://api.github.com/repos/neovim/neovim/releases/337566616'
+  - name: SAST
+    score: 10
+    reason: SAST tool is run on all commits
+    details:
+      - 'Info: all commits (30) are checked with a SAST tool'
+---
