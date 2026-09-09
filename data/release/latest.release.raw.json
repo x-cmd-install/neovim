@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11356680,
       "digest": "sha256:4ba6c8f5df71e414367b4778ac4e0744f57b0a5dbefc2eccdc55caf0a32f766a",
-      "download_count": 8421,
+      "download_count": 8664,
       "created_at": "2026-08-23T18:27:12Z",
       "updated_at": "2026-08-23T18:27:13Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.appimage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 39043,
       "digest": "sha256:0db4e86bdef1890a25c6f8920d06689b2a2fa741b3221382738cbcb48d7bc849",
-      "download_count": 93,
+      "download_count": 97,
       "created_at": "2026-08-23T18:27:12Z",
       "updated_at": "2026-08-23T18:27:12Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.appimage.zsync"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11365971,
       "digest": "sha256:1aa5ca085249580ae0f91eb14f27ec0919773ff2d99a163d03f3d6c21ac29725",
-      "download_count": 9567,
+      "download_count": 9878,
       "created_at": "2026-08-23T18:27:11Z",
       "updated_at": "2026-08-23T18:27:11Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11442680,
       "digest": "sha256:d429822f6994770e3bb10330e0baf21e72b0afe66e0507cb3c631c1c65f4bf41",
-      "download_count": 11603,
+      "download_count": 12151,
       "created_at": "2026-08-23T18:27:11Z",
       "updated_at": "2026-08-23T18:27:11Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.appimage"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 39339,
       "digest": "sha256:6e65581b1871d7d95dd94020c7034391438ecdc32e968b9ade137dbdfb6a3f23",
-      "download_count": 1140,
+      "download_count": 1208,
       "created_at": "2026-08-23T18:27:12Z",
       "updated_at": "2026-08-23T18:27:12Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.appimage.zsync"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11401951,
       "digest": "sha256:bce0f56eda1f1b1db6eee8f4133d7a38813ea07933837dd1777411ca384c6875",
-      "download_count": 61714,
+      "download_count": 64019,
       "created_at": "2026-08-23T18:27:11Z",
       "updated_at": "2026-08-23T18:27:11Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9634538,
       "digest": "sha256:65fb000099e47ca1b762584c484cc833f40e30851a0ec450d4174e16317c1f9b",
-      "download_count": 7966,
+      "download_count": 8234,
       "created_at": "2026-08-23T18:27:11Z",
       "updated_at": "2026-08-23T18:27:12Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-macos-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9843608,
       "digest": "sha256:81f4518622cb059b450ee2e498c6a1082a222f6bd89589de5bbcf0c6a68aa3fd",
-      "download_count": 2311,
+      "download_count": 2399,
       "created_at": "2026-08-23T18:27:11Z",
       "updated_at": "2026-08-23T18:27:12Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-macos-x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 12832828,
       "digest": "sha256:2dbd0c41b7462f6c48fe750cea456ad500b534bfe9af9e95295ab715ce6ec417",
-      "download_count": 1345,
+      "download_count": 1396,
       "created_at": "2026-08-23T18:27:12Z",
       "updated_at": "2026-08-23T18:27:13Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win-arm64.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13004160,
       "digest": "sha256:f5a2f7ee4603e0185ed5c3e6dc9db762499426baf1c6613a487da5b5e126ae55",
-      "download_count": 718,
+      "download_count": 740,
       "created_at": "2026-08-23T18:27:12Z",
       "updated_at": "2026-08-23T18:27:13Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win-arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12460092,
       "digest": "sha256:bcc9fedb87e696e76fae7494d9c2e184026f8ff0c6d0bf830acdb2277b5bad3f",
-      "download_count": 30309,
+      "download_count": 31465,
       "created_at": "2026-08-23T18:27:12Z",
       "updated_at": "2026-08-23T18:27:13Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.msi"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12623588,
       "digest": "sha256:de8625ba8cf65ebf40eb80a388ba1ec8e9c15b30218821e2c639119b05920de1",
-      "download_count": 14828,
+      "download_count": 15285,
       "created_at": "2026-08-23T18:27:12Z",
       "updated_at": "2026-08-23T18:27:13Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.zip"
@@ -474,11 +474,11 @@
   "body": "```\r\nNVIM v0.12.5\r\nBuild type: Release\r\nLuaJIT 2.1.1774638290\r\n```\r\n\r\n## Release notes\r\n\r\n- [Changelog](https://github.com/neovim/neovim/commit/5885a30e1e1225349079e7a1c4a3848aa8e43e42) (fixes + features)\r\n- [News](./runtime/doc/news.txt) (`:help news` in Nvim)\r\n\r\n## Install\r\n\r\n### Windows\r\n\r\n#### Zip\r\n\r\n1. Download **nvim-win64.zip** (or **nvim-win-arm64.zip** for ARM)\r\n2. Extract the zip\r\n3. Run `nvim.exe` in your terminal\r\n\r\n#### MSI\r\n\r\n1. Download **nvim-win64.msi** (or **nvim-win-arm64.msi** for ARM)\r\n2. Run the MSI\r\n3. Run `nvim.exe` in your terminal\r\n\r\nNote: On Windows \"Server\" you may need to [install `vcruntime*.dll`](https://neovim.io/doc/install/#windows).\r\n\r\n### macOS (x86_64)\r\n\r\n1. Download **nvim-macos-x86_64.tar.gz**\r\n2. Run `xattr -c ./nvim-macos-x86_64.tar.gz` (to avoid \"unknown developer\" warning)\r\n3. Extract: `tar xzvf nvim-macos-x86_64.tar.gz`\r\n4. Run `./nvim-macos-x86_64/bin/nvim`\r\n\r\n### macOS (arm64)\r\n\r\n1. Download **nvim-macos-arm64.tar.gz**\r\n2. Run `xattr -c ./nvim-macos-arm64.tar.gz` (to avoid \"unknown developer\" warning)\r\n3. Extract: `tar xzvf nvim-macos-arm64.tar.gz`\r\n4. Run `./nvim-macos-arm64/bin/nvim`\r\n\r\n### Linux (x86_64)\r\n\r\nIf your system does not have the required glibc version, try the (unsupported) [builds for older glibc](https://github.com/neovim/neovim-releases).\r\n\r\n#### AppImage\r\n\r\n1. Download **nvim-linux-x86_64.appimage**\r\n2. Run `chmod u+x nvim-linux-x86_64.appimage && ./nvim-linux-x86_64.appimage`\r\n   - If your system does not have FUSE you can [extract the appimage](https://github.com/AppImage/AppImageKit/wiki/FUSE#type-2-appimage):\r\n     ```bash\r\n     ./nvim-linux-x86_64.appimage --appimage-extract\r\n     ./squashfs-root/usr/bin/nvim\r\n     ```\r\n\r\n#### Tarball\r\n\r\n1. Download **nvim-linux-x86_64.tar.gz**\r\n2. Extract: `tar xzvf nvim-linux-x86_64.tar.gz`\r\n3. Run `./nvim-linux-x86_64/bin/nvim`\r\n\r\n### Linux (arm64)\r\n\r\n#### AppImage\r\n\r\n1. Download **nvim-linux-arm64.appimage**\r\n2. Run `chmod u+x nvim-linux-arm64.appimage && ./nvim-linux-arm64.appimage`\r\n   - If your system does not have FUSE you can [extract the appimage](https://github.com/AppImage/AppImageKit/wiki/FUSE#type-2-appimage):\r\n     ```bash\r\n     ./nvim-linux-arm64.appimage --appimage-extract\r\n     ./squashfs-root/usr/bin/nvim\r\n     ```\r\n\r\n#### Tarball\r\n\r\n1. Download **nvim-linux-arm64.tar.gz**\r\n2. Extract: `tar xzvf nvim-linux-arm64.tar.gz`\r\n3. Run `./nvim-linux-arm64/bin/nvim`\r\n\r\n### Other\r\n\r\n- Install by [package manager](https://github.com/neovim/neovim/blob/master/INSTALL.md#install-from-package)\r\n",
   "reactions": {
     "url": "https://api.github.com/repos/neovim/neovim/releases/375290921/reactions",
-    "total_count": 67,
+    "total_count": 68,
     "+1": 21,
     "-1": 0,
     "laugh": 0,
-    "hooray": 29,
+    "hooray": 30,
     "confused": 0,
     "heart": 9,
     "rocket": 8,
