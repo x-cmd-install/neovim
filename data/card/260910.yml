@@ -7,7 +7,7 @@ about:
   latestVersion: "nightly"
   latestRelease: "v0.12.5"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T21:20:17Z
+  collectedAt: 2026-09-10T22:29:58Z
 timeline:
   created: 2014-01-31
   lastCommit: 2026-09-10
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-23
   lastPrerelease: 2026-09-10
 popularity:
-  star: 102254
+  star: 102253
   watcher: 1007
-  fork: 7102
+  fork: 7103
   release: 55
   contributor: 1911
   pullRequest: 25747
@@ -98,7 +98,7 @@ total:
   commit: 38071
 ---
 path: /home/runner/.x-repo/github.com/neovim/neovim
-collectedAt: 2026-09-10T21:21:09Z
+collectedAt: 2026-09-10T22:31:15Z
 loc:
   VimScript:
     code: 411698
