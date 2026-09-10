@@ -12,6 +12,28 @@ Vim-fork focused on extensibility and usability
 x install neovim
 ```
 
+## 代码规模
+
+合计: **1,061,336** 行代码（覆盖前 5 种语言、共 **3472** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| VimScript | 411,698 | 21,723 | 20,687 | 2046 |
+| Lua | 348,062 | 62,272 | 33,376 | 853 |
+| C | 274,820 | 51,436 | 32,597 | 227 |
+| CHeader | 16,593 | 3,431 | 3,067 | 303 |
+| CMake | 2,935 | 336 | 487 | 43 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **5.2 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/neovim/neovim>
@@ -23,6 +45,25 @@ x install neovim
 - **最新版本**: `nightly` (2026-08-23)
 - **最近提交**: 2026-09-10
 - **Release 含资产**: 12 个
+
+## 流行度
+
+- **Star**: 102,254 · **Fork**: 7,102 · **开放 issue**: 14,596 · **贡献者**: 1,911
+
+## 累计统计
+
+- **发布数**: 55 · **已合并 PR**: 19906 · **开放 PR**: 289 · **已关闭 issue**: 12988 · **开放 issue**: 1608 · **提交数**: 38071
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 3 | 289 | 50 | 73 | 56 | 430 |
+| last60d | 2026-07-12 | 3 | 639 | 64 | 162 | 93 | 1029 |
+| 90d | 2026-06-12 | 4 | 939 | 82 | 236 | 123 | 1506 |
+| last180d | 2026-03-14 | 9 | 2012 | 128 | 576 | 252 | 2901 |
+| 360d | 2025-09-15 | 11 | 3503 | 167 | 1056 | 341 | 5407 |
+| last720d | 2024-09-20 | 19 | 6274 | 208 | 2284 | 638 | 7429 |
 
 ## Release 资产
 
@@ -41,43 +82,24 @@ x install neovim
 | [nvim-win64.msi](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.msi) | 11.9 MiB | `native/win/x64` |
 | [nvim-win64.zip](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.zip) | 12.0 MiB | `native/win/x64` |
 
-## 流行度
+## 发行版状态
 
-- **Star**: 102,252 · **Fork**: 7,102 · **开放 issue**: 14,595 · **贡献者**: 1,911
+在 [repology.org](https://repology.org/project/neovim) 上共有 **189** 个发行版报告此项目。**46** 个 ✅ 已是最新上游版本，**104** 个 ⚠️ 使用旧版本。
 
-## 累计统计
-
-- **发布数**: 55 · **已合并 PR**: 19904 · **开放 PR**: 288 · **已关闭 issue**: 12988 · **开放 issue**: 1607 · **提交数**: 38068
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 3 | 287 | 49 | 73 | 55 | 427 |
-| 90d | 2026-06-12 | 4 | 937 | 81 | 236 | 122 | 1503 |
-| 360d | 2025-09-15 | 11 | 3501 | 166 | 1056 | 340 | 5404 |
-
-## 代码规模
-
-合计: **1,061,377** 行代码（覆盖前 5 种语言、共 **3472** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| VimScript | 411,698 | 21,723 | 20,687 | 2046 |
-| Lua | 348,107 | 62,274 | 33,380 | 853 |
-| C | 274,820 | 51,436 | 32,597 | 227 |
-| CHeader | 16,589 | 3,431 | 3,067 | 303 |
-| CMake | 2,935 | 336 | 487 | 43 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **5.2 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Dangerous-Workflow** (-1/10) — no workflows found
-- **Token-Permissions** (-1/10) — No tokens found
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.12.4` | ⚠️ outdated |
+| Debian 14 | `0.12.4` | ⚠️ outdated |
+| Debian 13 | `0.10.4` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.11.6` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.9.5` | ⚠️ outdated |
+| Arch | `0.12.5` | ✅ latest |
+| Homebrew | `0.12.5` | ✅ latest |
+| Fedora rawhide | `0.12.5` | ✅ latest |
+| Nix unstable | `0.12.5` | ✅ latest |
+| Void | `0.12.5` | ✅ latest |
+| Alpine edge | `0.12.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.12.5` | ✅ latest |
 
 ## 改进这些数据
 
@@ -88,4 +110,4 @@ neovim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:16:33Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:21:19Z._
