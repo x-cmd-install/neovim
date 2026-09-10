@@ -12,7 +12,7 @@ Vim-fork focused on extensibility and usability
 x install neovim
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **1,061,336** 行代码（覆盖前 5 种语言、共 **3472** 个文件）。
 
@@ -48,7 +48,7 @@ x install neovim
 
 ## 流行度
 
-- **Star**: 102,254 · **Fork**: 7,102 · **开放 issue**: 14,596 · **贡献者**: 1,911
+- **Star**: 102,253 · **Fork**: 7,103 · **开放 issue**: 14,596 · **贡献者**: 1,911
 
 ## 累计统计
 
@@ -110,4 +110,4 @@ neovim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:21:19Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:31:30Z._

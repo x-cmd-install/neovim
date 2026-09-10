@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 102,254 · **Forks**: 7,102 · **Open issues**: 14,596 · **Contributors**: 1,911
+- **Stars**: 102,253 · **Forks**: 7,103 · **Open issues**: 14,596 · **Contributors**: 1,911
 
 ## Totals (cumulative)
 
@@ -110,4 +110,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:21:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:31:29Z._
