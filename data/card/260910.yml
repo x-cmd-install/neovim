@@ -2,30 +2,30 @@ about:
   description: "Vim-fork focused on extensibility and usability"
   license: NOASSERTION
   homepage: https://neovim.io
-  head: d039f19
+  head: e973eb4
   archived: false
   latestVersion: "nightly"
   latestRelease: "v0.12.5"
   latestPrerelease: "nightly"
-  collectedAt: 2026-09-10T04:29:54Z
+  collectedAt: 2026-09-10T16:15:12Z
 timeline:
   created: 2014-01-31
-  lastCommit: 2026-09-09
-  lastVersion: 2026-09-09
+  lastCommit: 2026-09-10
+  lastVersion: 2026-09-10
   lastRelease: 2026-08-23
-  lastPrerelease: 2026-09-09
+  lastPrerelease: 2026-09-10
 popularity:
-  star: 102239
-  watcher: 1008
-  fork: 7099
+  star: 102252
+  watcher: 1007
+  fork: 7102
   release: 55
   contributor: 1911
-  pullRequest: 25729
-  issue: 14591
+  pullRequest: 25744
+  issue: 14595
 language:
-  Vim Script: 16833457
-  Lua: 14145587
-  C: 11491276
+  Vim Script: 16833490
+  Lua: 14145934
+  C: 11491995
   CMake: 156608
   Zig: 72957
   Shell: 58249
@@ -39,66 +39,66 @@ language:
   Batchfile: 320
   CSS: 199
   Ruby: 182
-totalBytes: 42875176
+totalBytes: 42876275
 recent:
   last30d:
     since: 2026-08-11
     release: 3
-    mergedPR: 279
-    openPR: 47
-    closedIssue: 72
-    openIssue: 52
-    commit: 419
+    mergedPR: 287
+    openPR: 49
+    closedIssue: 73
+    openIssue: 55
+    commit: 427
   last60d:
     since: 2026-07-12
     release: 3
-    mergedPR: 629
-    openPR: 61
-    closedIssue: 161
-    openIssue: 89
-    commit: 1018
+    mergedPR: 637
+    openPR: 63
+    closedIssue: 162
+    openIssue: 92
+    commit: 1026
   last90d:
     since: 2026-06-12
     release: 4
-    mergedPR: 929
-    openPR: 79
-    closedIssue: 235
-    openIssue: 119
-    commit: 1495
+    mergedPR: 937
+    openPR: 81
+    closedIssue: 236
+    openIssue: 122
+    commit: 1503
   last180d:
     since: 2026-03-14
     release: 9
-    mergedPR: 2002
-    openPR: 125
-    closedIssue: 575
-    openIssue: 248
-    commit: 2890
+    mergedPR: 2010
+    openPR: 127
+    closedIssue: 576
+    openIssue: 251
+    commit: 2898
   last360d:
     since: 2025-09-15
     release: 11
-    mergedPR: 3493
-    openPR: 164
-    closedIssue: 1055
-    openIssue: 337
-    commit: 5396
+    mergedPR: 3501
+    openPR: 166
+    closedIssue: 1056
+    openIssue: 340
+    commit: 5404
   last720d:
     since: 2024-09-20
     release: 19
-    mergedPR: 6264
-    openPR: 205
-    closedIssue: 2283
-    openIssue: 634
-    commit: 7419
+    mergedPR: 6272
+    openPR: 207
+    closedIssue: 2284
+    openIssue: 637
+    commit: 7426
 total:
   release: 55
-  mergedPR: 19896
-  openPR: 286
-  closedIssue: 12986
-  openIssue: 1605
-  commit: 38061
+  mergedPR: 19904
+  openPR: 288
+  closedIssue: 12988
+  openIssue: 1607
+  commit: 38068
 ---
 path: /home/runner/.x-repo/github.com/neovim/neovim
-collectedAt: 2026-09-10T04:31:24Z
+collectedAt: 2026-09-10T16:16:14Z
 loc:
   VimScript:
     code: 411698
@@ -106,12 +106,12 @@ loc:
     blanks: 20687
     files: 2046
   Lua:
-    code: 348086
-    comments: 62265
-    blanks: 33384
+    code: 348107
+    comments: 62274
+    blanks: 33380
     files: 853
   C:
-    code: 274816
+    code: 274820
     comments: 51436
     blanks: 32597
     files: 227
@@ -222,13 +222,13 @@ loc:
     files: 11
   Text:
     code: 0
-    comments: 146027
-    blanks: 27465
+    comments: 146030
+    blanks: 27466
     files: 175
 total:
-  code: 1061744
-  comments: 289622
-  blanks: 120114
+  code: 1061769
+  comments: 289634
+  blanks: 120111
   files: 3740
 ---
 date: "2026-09-07"
