@@ -14,14 +14,14 @@ x install neovim
 
 ## Code insight
 
-Total: **1,061,813** lines of code across **3472** files in the top 5 languages.
+Total: **1,062,212** lines of code across **3472** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| VimScript | 411,778 | 21,753 | 20,696 | 2046 |
-| Lua | 348,453 | 62,308 | 33,402 | 853 |
-| C | 274,806 | 51,438 | 32,596 | 227 |
-| CHeader | 16,598 | 3,435 | 3,068 | 303 |
+| VimScript | 411,891 | 21,754 | 20,722 | 2046 |
+| Lua | 348,648 | 62,318 | 33,421 | 853 |
+| C | 274,896 | 51,465 | 32,602 | 227 |
+| CHeader | 16,599 | 3,442 | 3,068 | 303 |
 | CMake | 2,934 | 336 | 487 | 43 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-23)
-- **Last commit**: 2026-09-13
+- **Last commit**: 2026-09-14
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 102,290 · **Forks**: 7,107 · **Open issues**: 14,609 · **Contributors**: 1,912
+- **Stars**: 102,316 · **Forks**: 7,107 · **Open issues**: 14,613 · **Contributors**: 1,912
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 19942 · **Open PRs**: 288 · **Closed issues**: 12992 · **Open issues**: 1617 · **Commits**: 38116
+- **Releases**: 55 · **Merged PRs**: 19950 · **Open PRs**: 288 · **Closed issues**: 12996 · **Open issues**: 1617 · **Commits**: 38126
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 308 | 46 | 69 | 59 | 391 |
-| last60d | 2026-07-15 | 3 | 642 | 61 | 156 | 98 | 954 |
-| 90d | 2026-06-15 | 4 | 937 | 80 | 230 | 124 | 1446 |
-| last180d | 2026-03-17 | 9 | 2031 | 124 | 571 | 256 | 2839 |
-| 360d | 2025-09-18 | 11 | 3504 | 165 | 1056 | 350 | 5380 |
-| last720d | 2024-09-23 | 19 | 6283 | 207 | 2280 | 644 | 7450 |
+| 30d | 2026-08-15 | 3 | 306 | 46 | 70 | 59 | 405 |
+| last60d | 2026-07-16 | 3 | 640 | 61 | 158 | 97 | 968 |
+| 90d | 2026-06-16 | 4 | 937 | 80 | 232 | 124 | 1460 |
+| last180d | 2026-03-18 | 9 | 2033 | 124 | 572 | 256 | 2853 |
+| 360d | 2025-09-19 | 11 | 3504 | 165 | 1058 | 350 | 5394 |
+| last720d | 2024-09-24 | 19 | 6286 | 207 | 2281 | 641 | 7449 |
 
 ## Release assets
 
@@ -82,25 +82,6 @@ Lowest-scoring checks:
 | [nvim-win64.msi](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.msi) | 11.9 MiB | `native/win/x64` |
 | [nvim-win64.zip](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.zip) | 12.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **189** distros on [repology.org](https://repology.org/project/neovim). **46** are ✅ on the latest upstream release, **104** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.12.4` | ⚠️ outdated |
-| Debian 14 | `0.12.4` | ⚠️ outdated |
-| Debian 13 | `0.10.4` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.11.6` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.5` | ⚠️ outdated |
-| Arch | `0.12.5` | ✅ latest |
-| Homebrew | `0.12.5` | ✅ latest |
-| Fedora rawhide | `0.12.5` | ✅ latest |
-| Nix unstable | `0.12.5` | ✅ latest |
-| Void | `0.12.5` | ✅ latest |
-| Alpine edge | `0.12.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.12.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `neovim` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -110,4 +91,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:41:42Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:46:50Z._
