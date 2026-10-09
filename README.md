@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-08-23)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-08
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 102,907 · **Forks**: 7,163 · **Open issues**: 14,702 · **Contributors**: 1,924
+- **Stars**: 102,919 · **Forks**: 7,163 · **Open issues**: 14,706 · **Contributors**: 1,924
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 20134 · **Open PRs**: 307 · **Closed issues**: 13062 · **Open issues**: 1640 · **Commits**: 38393
+- **Releases**: 55 · **Merged PRs**: 20136 · **Open PRs**: 310 · **Closed issues**: 13062 · **Open issues**: 1644 · **Commits**: 38394
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 1 | 235 | 53 | 49 | 60 | 396 |
-| last60d | 2026-08-09 | 3 | 530 | 77 | 133 | 103 | 863 |
-| 90d | 2026-07-10 | 3 | 880 | 91 | 229 | 136 | 1455 |
-| last180d | 2026-04-11 | 6 | 1875 | 137 | 498 | 262 | 2842 |
-| 360d | 2025-10-13 | 11 | 3492 | 180 | 1053 | 368 | 5384 |
-| last720d | 2024-10-18 | 18 | 6288 | 220 | 2255 | 652 | 7510 |
+| 30d | 2026-09-09 | 1 | 224 | 54 | 48 | 64 | 397 |
+| last60d | 2026-08-10 | 3 | 527 | 80 | 132 | 106 | 864 |
+| 90d | 2026-07-11 | 3 | 872 | 94 | 227 | 139 | 1456 |
+| last180d | 2026-04-12 | 6 | 1861 | 140 | 496 | 265 | 2843 |
+| 360d | 2025-10-14 | 11 | 3478 | 183 | 1052 | 371 | 5385 |
+| last720d | 2024-10-19 | 18 | 6281 | 223 | 2254 | 656 | 7506 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:07:16Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T05:58:39Z._
