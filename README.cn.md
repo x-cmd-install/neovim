@@ -14,14 +14,14 @@ x install neovim
 
 ## 代码洞察
 
-合计: **1,065,436** 行代码（覆盖前 5 种语言、共 **3479** 个文件）。
+合计: **1,065,604** 行代码（覆盖前 5 种语言、共 **3480** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | VimScript | 412,937 | 21,895 | 20,844 | 2051 |
-| Lua | 350,215 | 63,114 | 33,643 | 854 |
-| C | 275,417 | 51,642 | 32,667 | 227 |
-| CHeader | 16,749 | 3,469 | 3,087 | 304 |
+| Lua | 350,332 | 63,129 | 33,637 | 855 |
+| C | 275,466 | 51,653 | 32,670 | 227 |
+| CHeader | 16,751 | 3,467 | 3,088 | 304 |
 | CMake | 2,935 | 336 | 487 | 43 |
 
 ## OpenSSF Scorecard 评分
@@ -42,45 +42,45 @@ x install neovim
 
 ## 发布
 
-- **最新版本**: `nightly` (2026-08-23)
-- **最近提交**: 2026-10-08
+- **最新版本**: `nightly` (2026-10-09)
+- **最近提交**: 2026-10-09
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 102,919 · **Fork**: 7,163 · **开放 issue**: 14,706 · **贡献者**: 1,924
+- **Star**: 102,959 · **Fork**: 7,167 · **开放 issue**: 14,709 · **贡献者**: 1,924
 
 ## 累计统计
 
-- **发布数**: 55 · **已合并 PR**: 20136 · **开放 PR**: 310 · **已关闭 issue**: 13062 · **开放 issue**: 1644 · **提交数**: 38394
+- **发布数**: 56 · **已合并 PR**: 20140 · **开放 PR**: 310 · **已关闭 issue**: 13065 · **开放 issue**: 1644 · **提交数**: 38402
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 224 | 54 | 48 | 64 | 397 |
-| last60d | 2026-08-10 | 3 | 527 | 80 | 132 | 106 | 864 |
-| 90d | 2026-07-11 | 3 | 872 | 94 | 227 | 139 | 1456 |
-| last180d | 2026-04-12 | 6 | 1861 | 140 | 496 | 265 | 2843 |
-| 360d | 2025-10-14 | 11 | 3478 | 183 | 1052 | 371 | 5385 |
-| last720d | 2024-10-19 | 18 | 6281 | 223 | 2254 | 656 | 7506 |
+| 30d | 2026-09-10 | 3 | 216 | 50 | 46 | 64 | 405 |
+| last60d | 2026-08-11 | 4 | 521 | 80 | 132 | 107 | 872 |
+| 90d | 2026-07-12 | 4 | 871 | 93 | 226 | 139 | 1464 |
+| last180d | 2026-04-13 | 7 | 1855 | 139 | 488 | 262 | 2851 |
+| 360d | 2025-10-15 | 12 | 3474 | 183 | 1049 | 371 | 5393 |
+| last720d | 2024-10-20 | 19 | 6280 | 223 | 2253 | 655 | 7507 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [nvim-linux-arm64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.appimage) | 10.8 MiB | `native/linux/arm64` |
-| [nvim-linux-arm64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.appimage.zsync) | 38.1 KiB | `native/linux/arm64` |
-| [nvim-linux-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.tar.gz) | 10.8 MiB | `native/linux/arm64` |
-| [nvim-linux-x86_64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.appimage) | 10.9 MiB | `native/linux/x64` |
-| [nvim-linux-x86_64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.appimage.zsync) | 38.4 KiB | `native/linux/x64` |
-| [nvim-linux-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.tar.gz) | 10.9 MiB | `native/linux/x64` |
-| [nvim-macos-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-macos-arm64.tar.gz) | 9.2 MiB | `native/darwin/arm64` |
-| [nvim-macos-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-macos-x86_64.tar.gz) | 9.4 MiB | `native/darwin/x64` |
-| [nvim-win-arm64.msi](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win-arm64.msi) | 12.2 MiB | `other` |
-| [nvim-win-arm64.zip](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win-arm64.zip) | 12.4 MiB | `other` |
-| [nvim-win64.msi](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.msi) | 11.9 MiB | `native/win/x64` |
-| [nvim-win64.zip](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.zip) | 12.0 MiB | `native/win/x64` |
+| [nvim-linux-arm64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage) | 10.8 MiB | `native/linux/arm64` |
+| [nvim-linux-arm64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage.zsync) | 38.1 KiB | `native/linux/arm64` |
+| [nvim-linux-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.tar.gz) | 10.8 MiB | `native/linux/arm64` |
+| [nvim-linux-x86_64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.appimage) | 10.9 MiB | `native/linux/x64` |
+| [nvim-linux-x86_64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.appimage.zsync) | 38.5 KiB | `native/linux/x64` |
+| [nvim-linux-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.tar.gz) | 10.9 MiB | `native/linux/x64` |
+| [nvim-macos-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-arm64.tar.gz) | 9.2 MiB | `native/darwin/arm64` |
+| [nvim-macos-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-x86_64.tar.gz) | 9.4 MiB | `native/darwin/x64` |
+| [nvim-win-arm64.msi](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win-arm64.msi) | 12.4 MiB | `other` |
+| [nvim-win-arm64.zip](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win-arm64.zip) | 12.6 MiB | `other` |
+| [nvim-win64.msi](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.msi) | 11.9 MiB | `native/win/x64` |
+| [nvim-win64.zip](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.zip) | 12.0 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -91,4 +91,4 @@ neovim 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261009.yml` · 2026-10-09T05:58:41Z._
+_数据快照: `data/card/261010.yml` · 2026-10-10T05:40:54Z._

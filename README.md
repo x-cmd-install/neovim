@@ -14,14 +14,14 @@ x install neovim
 
 ## Code insight
 
-Total: **1,065,436** lines of code across **3479** files in the top 5 languages.
+Total: **1,065,604** lines of code across **3480** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | VimScript | 412,937 | 21,895 | 20,844 | 2051 |
-| Lua | 350,215 | 63,114 | 33,643 | 854 |
-| C | 275,417 | 51,642 | 32,667 | 227 |
-| CHeader | 16,749 | 3,469 | 3,087 | 304 |
+| Lua | 350,332 | 63,129 | 33,637 | 855 |
+| C | 275,466 | 51,653 | 32,670 | 227 |
+| CHeader | 16,751 | 3,467 | 3,088 | 304 |
 | CMake | 2,935 | 336 | 487 | 43 |
 
 ## OpenSSF Scorecard
@@ -42,45 +42,45 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `nightly` (2026-08-23)
-- **Last commit**: 2026-10-08
+- **Latest**: `nightly` (2026-10-09)
+- **Last commit**: 2026-10-09
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 102,919 · **Forks**: 7,163 · **Open issues**: 14,706 · **Contributors**: 1,924
+- **Stars**: 102,959 · **Forks**: 7,167 · **Open issues**: 14,709 · **Contributors**: 1,924
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 20136 · **Open PRs**: 310 · **Closed issues**: 13062 · **Open issues**: 1644 · **Commits**: 38394
+- **Releases**: 56 · **Merged PRs**: 20140 · **Open PRs**: 310 · **Closed issues**: 13065 · **Open issues**: 1644 · **Commits**: 38402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 224 | 54 | 48 | 64 | 397 |
-| last60d | 2026-08-10 | 3 | 527 | 80 | 132 | 106 | 864 |
-| 90d | 2026-07-11 | 3 | 872 | 94 | 227 | 139 | 1456 |
-| last180d | 2026-04-12 | 6 | 1861 | 140 | 496 | 265 | 2843 |
-| 360d | 2025-10-14 | 11 | 3478 | 183 | 1052 | 371 | 5385 |
-| last720d | 2024-10-19 | 18 | 6281 | 223 | 2254 | 656 | 7506 |
+| 30d | 2026-09-10 | 3 | 216 | 50 | 46 | 64 | 405 |
+| last60d | 2026-08-11 | 4 | 521 | 80 | 132 | 107 | 872 |
+| 90d | 2026-07-12 | 4 | 871 | 93 | 226 | 139 | 1464 |
+| last180d | 2026-04-13 | 7 | 1855 | 139 | 488 | 262 | 2851 |
+| 360d | 2025-10-15 | 12 | 3474 | 183 | 1049 | 371 | 5393 |
+| last720d | 2024-10-20 | 19 | 6280 | 223 | 2253 | 655 | 7507 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nvim-linux-arm64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.appimage) | 10.8 MiB | `native/linux/arm64` |
-| [nvim-linux-arm64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.appimage.zsync) | 38.1 KiB | `native/linux/arm64` |
-| [nvim-linux-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-arm64.tar.gz) | 10.8 MiB | `native/linux/arm64` |
-| [nvim-linux-x86_64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.appimage) | 10.9 MiB | `native/linux/x64` |
-| [nvim-linux-x86_64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.appimage.zsync) | 38.4 KiB | `native/linux/x64` |
-| [nvim-linux-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-linux-x86_64.tar.gz) | 10.9 MiB | `native/linux/x64` |
-| [nvim-macos-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-macos-arm64.tar.gz) | 9.2 MiB | `native/darwin/arm64` |
-| [nvim-macos-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-macos-x86_64.tar.gz) | 9.4 MiB | `native/darwin/x64` |
-| [nvim-win-arm64.msi](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win-arm64.msi) | 12.2 MiB | `other` |
-| [nvim-win-arm64.zip](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win-arm64.zip) | 12.4 MiB | `other` |
-| [nvim-win64.msi](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.msi) | 11.9 MiB | `native/win/x64` |
-| [nvim-win64.zip](https://github.com/neovim/neovim/releases/download/v0.12.5/nvim-win64.zip) | 12.0 MiB | `native/win/x64` |
+| [nvim-linux-arm64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage) | 10.8 MiB | `native/linux/arm64` |
+| [nvim-linux-arm64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage.zsync) | 38.1 KiB | `native/linux/arm64` |
+| [nvim-linux-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.tar.gz) | 10.8 MiB | `native/linux/arm64` |
+| [nvim-linux-x86_64.appimage](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.appimage) | 10.9 MiB | `native/linux/x64` |
+| [nvim-linux-x86_64.appimage.zsync](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.appimage.zsync) | 38.5 KiB | `native/linux/x64` |
+| [nvim-linux-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.tar.gz) | 10.9 MiB | `native/linux/x64` |
+| [nvim-macos-arm64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-arm64.tar.gz) | 9.2 MiB | `native/darwin/arm64` |
+| [nvim-macos-x86_64.tar.gz](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-x86_64.tar.gz) | 9.4 MiB | `native/darwin/x64` |
+| [nvim-win-arm64.msi](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win-arm64.msi) | 12.4 MiB | `other` |
+| [nvim-win-arm64.zip](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win-arm64.zip) | 12.6 MiB | `other` |
+| [nvim-win64.msi](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.msi) | 11.9 MiB | `native/win/x64` |
+| [nvim-win64.zip](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.zip) | 12.0 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -91,4 +91,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:58:39Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:40:53Z._
