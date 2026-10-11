@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 102,959 · **Forks**: 7,167 · **Open issues**: 14,709 · **Contributors**: 1,924
+- **Stars**: 102,979 · **Forks**: 7,167 · **Open issues**: 14,711 · **Contributors**: 1,924
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 20140 · **Open PRs**: 310 · **Closed issues**: 13065 · **Open issues**: 1644 · **Commits**: 38402
+- **Releases**: 56 · **Merged PRs**: 20140 · **Open PRs**: 313 · **Closed issues**: 13066 · **Open issues**: 1645 · **Commits**: 38402
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 3 | 216 | 50 | 46 | 64 | 405 |
-| last60d | 2026-08-11 | 4 | 521 | 80 | 132 | 107 | 872 |
-| 90d | 2026-07-12 | 4 | 871 | 93 | 226 | 139 | 1464 |
-| last180d | 2026-04-13 | 7 | 1855 | 139 | 488 | 262 | 2851 |
-| 360d | 2025-10-15 | 12 | 3474 | 183 | 1049 | 371 | 5393 |
-| last720d | 2024-10-20 | 19 | 6280 | 223 | 2253 | 655 | 7507 |
+| 30d | 2026-09-11 | 3 | 202 | 53 | 43 | 61 | 287 |
+| last60d | 2026-08-12 | 4 | 515 | 82 | 132 | 108 | 767 |
+| 90d | 2026-07-13 | 4 | 858 | 95 | 226 | 139 | 1338 |
+| last180d | 2026-04-14 | 7 | 1827 | 141 | 482 | 260 | 2702 |
+| 360d | 2025-10-16 | 12 | 3469 | 185 | 1045 | 371 | 5355 |
+| last720d | 2024-10-21 | 19 | 6277 | 226 | 2251 | 655 | 7496 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:40:53Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:36:30Z._
