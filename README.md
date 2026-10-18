@@ -14,13 +14,13 @@ x install neovim
 
 ## Code insight
 
-Total: **1,067,604** lines of code across **3484** files in the top 5 languages.
+Total: **1,067,609** lines of code across **3484** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | VimScript | 413,584 | 21,818 | 20,728 | 2053 |
-| Lua | 351,524 | 63,358 | 33,731 | 857 |
-| C | 275,593 | 51,651 | 32,676 | 227 |
+| Lua | 351,524 | 63,360 | 33,726 | 857 |
+| C | 275,598 | 51,656 | 32,676 | 227 |
 | CHeader | 16,759 | 3,472 | 3,089 | 304 |
 | CMake | 2,935 | 336 | 487 | 43 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `nightly` (2026-10-09)
-- **Last commit**: 2026-10-16
+- **Last commit**: 2026-10-17
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 103,017 · **Forks**: 7,191 · **Open issues**: 14,735 · **Contributors**: 1,930
+- **Stars**: 103,037 · **Forks**: 7,192 · **Open issues**: 14,740 · **Contributors**: 1,930
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 20203 · **Open PRs**: 328 · **Closed issues**: 13088 · **Open issues**: 1647 · **Commits**: 38482
+- **Releases**: 56 · **Merged PRs**: 20206 · **Open PRs**: 337 · **Closed issues**: 13090 · **Open issues**: 1650 · **Commits**: 38485
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 3 | 215 | 62 | 48 | 55 | 380 |
-| last60d | 2026-08-18 | 4 | 530 | 98 | 140 | 102 | 860 |
-| 90d | 2026-07-19 | 4 | 846 | 108 | 223 | 136 | 1431 |
-| last180d | 2026-04-20 | 7 | 1764 | 153 | 467 | 257 | 2795 |
-| 360d | 2025-10-22 | 12 | 3507 | 198 | 1043 | 368 | 5448 |
-| last720d | 2024-10-27 | 19 | 6303 | 239 | 2254 | 654 | 7527 |
+| 30d | 2026-09-18 | 3 | 204 | 69 | 42 | 59 | 300 |
+| last60d | 2026-08-19 | 4 | 521 | 106 | 137 | 108 | 755 |
+| 90d | 2026-07-20 | 4 | 831 | 116 | 217 | 142 | 1293 |
+| last180d | 2026-04-21 | 7 | 1753 | 162 | 462 | 262 | 2657 |
+| 360d | 2025-10-23 | 12 | 3497 | 206 | 1039 | 373 | 5344 |
+| last720d | 2024-10-28 | 19 | 6298 | 248 | 2256 | 656 | 7523 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:13:17Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:21:08Z._
