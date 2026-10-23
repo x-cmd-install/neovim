@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 103,101 · **Forks**: 7,230 · **Open issues**: 14,756 · **Contributors**: 1,935
+- **Stars**: 103,131 · **Forks**: 7,199 · **Open issues**: 14,759 · **Contributors**: 1,935
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 20253 · **Open PRs**: 318 · **Closed issues**: 13102 · **Open issues**: 1654 · **Commits**: 38551
+- **Releases**: 56 · **Merged PRs**: 20253 · **Open PRs**: 320 · **Closed issues**: 13102 · **Open issues**: 1657 · **Commits**: 38551
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 226 | 52 | 47 | 57 | 369 |
-| last60d | 2026-08-23 | 4 | 533 | 83 | 138 | 108 | 824 |
-| 90d | 2026-07-24 | 4 | 836 | 97 | 213 | 143 | 1362 |
-| last180d | 2026-04-25 | 6 | 1723 | 141 | 458 | 258 | 2726 |
-| 360d | 2025-10-27 | 12 | 3507 | 187 | 1038 | 375 | 5413 |
-| last720d | 2024-11-01 | 19 | 6323 | 229 | 2256 | 655 | 7546 |
+| 30d | 2026-09-23 | 3 | 218 | 54 | 47 | 58 | 369 |
+| last60d | 2026-08-24 | 3 | 523 | 83 | 137 | 110 | 824 |
+| 90d | 2026-07-25 | 4 | 828 | 99 | 209 | 141 | 1362 |
+| last180d | 2026-04-26 | 6 | 1709 | 143 | 455 | 258 | 2726 |
+| 360d | 2025-10-28 | 12 | 3498 | 189 | 1037 | 378 | 5413 |
+| last720d | 2024-11-02 | 19 | 6314 | 231 | 2251 | 652 | 7539 |
 
 ## Release assets
 
@@ -82,6 +82,25 @@ Lowest-scoring checks:
 | [nvim-win64.msi](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.msi) | 11.9 MiB | `native/win/x64` |
 | [nvim-win64.zip](https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.zip) | 12.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **188** distros on [repology.org](https://repology.org/project/neovim). **40** are ✅ on the latest upstream release, **107** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `0.12.4` | ⚠️ outdated |
+| Debian 14 | `0.12.4` | ⚠️ outdated |
+| Debian 13 | `0.10.4` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.11.6` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.9.5` | ⚠️ outdated |
+| Arch | `0.12.6` | ✅ latest |
+| Homebrew | `0.12.6` | ✅ latest |
+| Fedora rawhide | `0.12.6` | ✅ latest |
+| Nix unstable | `0.12.6` | ✅ latest |
+| Void | `0.12.6` | ✅ latest |
+| Alpine edge | `0.12.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.12.6` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `neovim` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +110,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:31:36Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:35:58Z._
