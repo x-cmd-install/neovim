@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 103,170 · **Forks**: 7,234 · **Open issues**: 14,770 · **Contributors**: 1,939
+- **Stars**: 103,201 · **Forks**: 7,262 · **Open issues**: 14,774 · **Contributors**: 1,939
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 20262 · **Open PRs**: 329 · **Closed issues**: 13107 · **Open issues**: 1663 · **Commits**: 38560
+- **Releases**: 56 · **Merged PRs**: 20263 · **Open PRs**: 333 · **Closed issues**: 13108 · **Open issues**: 1666 · **Commits**: 38561
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 3 | 200 | 54 | 43 | 61 | 243 |
-| last60d | 2026-08-27 | 3 | 506 | 89 | 133 | 115 | 745 |
-| 90d | 2026-07-28 | 4 | 800 | 106 | 203 | 147 | 1242 |
-| last180d | 2026-04-29 | 6 | 1675 | 150 | 445 | 259 | 2671 |
-| 360d | 2025-10-31 | 12 | 3478 | 197 | 1034 | 384 | 5383 |
-| last720d | 2024-11-05 | 19 | 6307 | 240 | 2246 | 655 | 7528 |
+| 30d | 2026-09-27 | 3 | 198 | 58 | 44 | 61 | 244 |
+| last60d | 2026-08-28 | 3 | 499 | 93 | 133 | 117 | 746 |
+| 90d | 2026-07-29 | 4 | 789 | 110 | 201 | 150 | 1243 |
+| last180d | 2026-04-30 | 6 | 1664 | 154 | 443 | 261 | 2672 |
+| 360d | 2025-11-01 | 12 | 3474 | 201 | 1031 | 387 | 5384 |
+| last720d | 2024-11-06 | 19 | 6306 | 244 | 2244 | 657 | 7523 |
 
 ## Release assets
 
@@ -84,7 +84,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **189** distros on [repology.org](https://repology.org/project/neovim). **42** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
+Reported by **190** distros on [repology.org](https://repology.org/project/neovim). **43** are ✅ on the latest upstream release, **106** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -94,7 +94,7 @@ Reported by **189** distros on [repology.org](https://repology.org/project/neovi
 | Ubuntu 26.04 LTS | `0.11.6` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.5` | ⚠️ outdated |
 | Arch | `0.12.6` | ✅ latest |
-| Homebrew | `0.12.6` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
 | Fedora rawhide | `0.12.6` | ✅ latest |
 | Nix unstable | `0.12.6` | ✅ latest |
 | Void | `0.12.6` | ✅ latest |
@@ -110,4 +110,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:33:11Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:51:34Z._
