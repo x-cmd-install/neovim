@@ -14,7 +14,7 @@ x install neovim
 
 ## Code insight
 
-Total: **1,068,548** lines of code across **3484** files in the top 5 languages.
+Total: **1,068,549** lines of code across **3484** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 103,245 · **Forks**: 7,302 · **Open issues**: 14,786 · **Contributors**: 1,942
+- **Stars**: 103,248 · **Forks**: 7,328 · **Open issues**: 14,788 · **Contributors**: 1,942
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 20274 · **Open PRs**: 334 · **Closed issues**: 13112 · **Open issues**: 1674 · **Commits**: 38575
+- **Releases**: 56 · **Merged PRs**: 20275 · **Open PRs**: 334 · **Closed issues**: 13112 · **Open issues**: 1676 · **Commits**: 38576
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 3 | 188 | 59 | 46 | 67 | 266 |
-| last60d | 2026-08-30 | 3 | 495 | 94 | 131 | 123 | 768 |
-| 90d | 2026-07-31 | 4 | 780 | 111 | 202 | 155 | 1265 |
-| last180d | 2026-05-02 | 6 | 1654 | 154 | 442 | 268 | 2694 |
-| 360d | 2025-11-03 | 11 | 3476 | 202 | 1029 | 393 | 5406 |
-| last720d | 2024-11-08 | 19 | 6304 | 245 | 2242 | 663 | 7531 |
+| 30d | 2026-09-30 | 3 | 174 | 52 | 42 | 67 | 267 |
+| last60d | 2026-08-31 | 3 | 488 | 94 | 129 | 124 | 769 |
+| 90d | 2026-08-01 | 4 | 765 | 110 | 199 | 155 | 1266 |
+| last180d | 2026-05-03 | 6 | 1647 | 154 | 440 | 270 | 2695 |
+| 360d | 2025-11-04 | 11 | 3474 | 202 | 1028 | 394 | 5407 |
+| last720d | 2024-11-09 | 19 | 6293 | 245 | 2237 | 665 | 7523 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for neovim lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T05:38:01Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T05:36:22Z._
