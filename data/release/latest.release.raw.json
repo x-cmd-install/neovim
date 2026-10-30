@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11356680,
       "digest": "sha256:8efcec73cea1cebcd3a19da0bc782c0c6d95da7ae6006902a9d93b5ac9efe1c2",
-      "download_count": 7653,
+      "download_count": 8043,
       "created_at": "2026-10-09T15:43:23Z",
       "updated_at": "2026-10-09T15:43:23Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 39043,
       "digest": "sha256:f52953d280865da999775579fd84ed09cfac98f02ab30388b76ed631d8fa34af",
-      "download_count": 130,
+      "download_count": 134,
       "created_at": "2026-10-09T15:43:23Z",
       "updated_at": "2026-10-09T15:43:23Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.appimage.zsync"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 11367117,
       "digest": "sha256:8f1f64a0bdb97247034038c3823c6cbad5bdf9ecd5751b85494b71c3ee04c815",
-      "download_count": 11268,
+      "download_count": 11968,
       "created_at": "2026-10-09T15:43:22Z",
       "updated_at": "2026-10-09T15:43:22Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11454968,
       "digest": "sha256:b644d034746aed32f4e918be9fc6147408ce4ecd360fedd7130da543c35f29fb",
-      "download_count": 10269,
+      "download_count": 11111,
       "created_at": "2026-10-09T15:43:22Z",
       "updated_at": "2026-10-09T15:43:22Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.appimage"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 39381,
       "digest": "sha256:b03fc8311635cb5a3610d32551965a97ebf6bea9a8cf718adb76d7c7c16f9a31",
-      "download_count": 1432,
+      "download_count": 1509,
       "created_at": "2026-10-09T15:43:23Z",
       "updated_at": "2026-10-09T15:43:23Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.appimage.zsync"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 11404582,
       "digest": "sha256:474430d53e6264f6d6dd18db42d6dc9df3a1b56ca9e88a325bbf860e1a811d87",
-      "download_count": 96676,
+      "download_count": 103244,
       "created_at": "2026-10-09T15:43:22Z",
       "updated_at": "2026-10-09T15:43:22Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-linux-x86_64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 9595887,
       "digest": "sha256:1dbd148222b051ba6c307c4d17a318ed083df018a4f6a5a0ce46955ffc9ab87b",
-      "download_count": 9945,
+      "download_count": 10497,
       "created_at": "2026-10-09T15:43:22Z",
       "updated_at": "2026-10-09T15:43:22Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-arm64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9844257,
       "digest": "sha256:481424f1dbc85f637d57e47d27d042aa9c883e5a4fe9ee64fc4ee9573b221998",
-      "download_count": 2687,
+      "download_count": 2818,
       "created_at": "2026-10-09T15:43:22Z",
       "updated_at": "2026-10-09T15:43:22Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-macos-x86_64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13017148,
       "digest": "sha256:02cd0d617da680f76b503b5b636d36c75c38a3fbd05147ab0d2810f2dec13840",
-      "download_count": 1663,
+      "download_count": 1723,
       "created_at": "2026-10-09T15:43:23Z",
       "updated_at": "2026-10-09T15:43:24Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win-arm64.msi"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13188877,
       "digest": "sha256:2e58d259ffcc6145e5112ea02330126c6b57da09087bb9265fb2fa9aa10b485c",
-      "download_count": 569,
+      "download_count": 597,
       "created_at": "2026-10-09T15:43:23Z",
       "updated_at": "2026-10-09T15:43:24Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win-arm64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 12460092,
       "digest": "sha256:72ec7df85655528952e086858ca6b3add8498f60977108ba8e7f3ede34a7cca5",
-      "download_count": 34996,
+      "download_count": 36448,
       "created_at": "2026-10-09T15:43:23Z",
       "updated_at": "2026-10-09T15:43:24Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.msi"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 12624741,
       "digest": "sha256:4e12b7103b601ffc8f25954b4da100f339faa73dccb69a5b135e897fa3d893ed",
-      "download_count": 17059,
+      "download_count": 17735,
       "created_at": "2026-10-09T15:43:23Z",
       "updated_at": "2026-10-09T15:43:24Z",
       "browser_download_url": "https://github.com/neovim/neovim/releases/download/v0.12.6/nvim-win64.zip"
