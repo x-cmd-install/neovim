@@ -1,60 +1,27 @@
-- repo: deepin_23
-  subrepo: community
-  srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
+- repo: aosc
+  srcname: app-editors/neovim
+  binname: neovim
   visiblename: neovim
-  version: 0.9.4
-  origversion: 0.9.4-deepin
-  status: outdated
+  version: 0.12.6
+  origversion: 1:0.12.6
+  status: newest
+  summary: Vim-fork focused on extensibility and usability
   maintainers:
-    - xiangzelong@deepin.org
+    - fallback-mnt-aosc@repology
   categories:
     - editors
-- repo: deepin_25
-  subrepo: community
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
+  binname: neovim
   visiblename: neovim
-  version: 0.10.4
-  origversion: 0.10.4-7
-  status: outdated
-  maintainers:
-    - team+vim@tracker.debian.org
-    - jamessan@debian.org
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
-  visiblename: neovim
-  version: 0.4.4
-  origversion: 0.4.4-1
-  status: outdated
-  maintainers:
-    - team+vim@tracker.debian.org
-    - jamessan@debian.org
-  categories:
-    - misc
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
-  visiblename: neovim
-  version: 0.12.4
-  origversion: 0.12.4-1
-  status: outdated
-  maintainers:
-    - team+vim@tracker.debian.org
-    - jamessan@debian.org
-  categories:
-    - misc
+  version: 0.12.6
+  origversion: 0.12.6-1
+  status: newest
+  summary: Fork of Vim aiming to improve user experience, plugins, and GUIs
+  licenses:
+    - Apache-2.0
+    - LicenseRef-vim
 - repo: aerynos
   srcname: neovim
   visiblename: neovim
@@ -181,21 +148,8 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND Vim
-- repo: alpine_3_20
-  subrepo: community
-  srcname: neovim
-  binname: neovim
-  visiblename: neovim
-  version: 0.10.0
-  origversion: 0.10.0-r1
-  status: outdated
-  summary: Vim-fork focused on extensibility and agility
-  maintainers:
-    - jakub@jirutka.cz
-  licenses:
-    - Apache-2.0 AND Vim
-- repo: artix
-  subrepo: world
+- repo: arch
+  subrepo: extra
   srcname: neovim
   binname: neovim
   visiblename: neovim
@@ -209,6 +163,19 @@
 - repo: alpine_3_20
   subrepo: community
   srcname: neovim
+  binname: neovim
+  visiblename: neovim
+  version: 0.10.0
+  origversion: 0.10.0-r1
+  status: outdated
+  summary: Vim-fork focused on extensibility and agility
+  maintainers:
+    - jakub@jirutka.cz
+  licenses:
+    - Apache-2.0 AND Vim
+- repo: alpine_3_20
+  subrepo: community
+  srcname: neovim
   binname: neovim-doc
   visiblename: neovim-doc
   version: 0.10.0
@@ -323,6 +290,19 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND Vim
+- repo: kaos
+  subrepo: main
+  srcname: neovim
+  binname: neovim
+  visiblename: neovim
+  version: 0.12.6
+  origversion: 0.12.6-2
+  status: newest
+  summary: Vim-fork focused on extensibility and usability
+  maintainers:
+    - demm@kaosx.us
+  licenses:
+    - APACHE
 - repo: alpine_3_23
   subrepo: community
   srcname: neovim
@@ -336,19 +316,6 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND Vim
-- repo: deepin_unstable
-  subrepo: main
-  srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
-  visiblename: neovim
-  version: 0.3.4
-  origversion: 0.3.4-3
-  status: outdated
-  maintainers:
-    - team+vim@tracker.debian.org
-    - jamessan@debian.org
 - repo: alpine_3_23
   subrepo: community
   srcname: neovim
@@ -401,16 +368,6 @@
     - jakub@jirutka.cz
   licenses:
     - Apache-2.0 AND Vim
-- repo: pacstall
-  srcname: neovim-git
-  binname: neovim-git
-  visiblename: neovim-git
-  version: 5a53f3bb
-  origversion: 5a53f3bb-1
-  status: rolling
-  summary: Vim fork maintained by the community
-  maintainers:
-    - elsie19@pm.me
 - repo: alpine_edge
   subrepo: community
   srcname: neovim
@@ -486,30 +443,6 @@
     - Apache-2.0 and Vim
   categories:
     - Editors
-- repo: aosc
-  srcname: app-editors/neovim
-  binname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: 1:0.12.6
-  status: newest
-  summary: Vim-fork focused on extensibility and usability
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - editors
-- repo: arch
-  subrepo: extra
-  srcname: neovim
-  binname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: 0.12.6-1
-  status: newest
-  summary: Fork of Vim aiming to improve user experience, plugins, and GUIs
-  licenses:
-    - Apache-2.0
-    - LicenseRef-vim
 - repo: aur
   srcname: neovim-git
   binname: neovim-git
@@ -523,6 +456,18 @@
     - gpanders@aur
   licenses:
     - custom:neovim
+- repo: artix
+  subrepo: world
+  srcname: neovim
+  binname: neovim
+  visiblename: neovim
+  version: 0.12.6
+  origversion: 0.12.6-1
+  status: newest
+  summary: Fork of Vim aiming to improve user experience, plugins, and GUIs
+  licenses:
+    - Apache-2.0
+    - LicenseRef-vim
 - repo: baulk
   srcname: neovim
   binname: neovim
@@ -673,6 +618,76 @@
     - misc
 - repo: debian_unstable
   subrepo: sid/main
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.12.4
+  origversion: 0.12.4-1
+  status: outdated
+  maintainers:
+    - team+vim@tracker.debian.org
+    - jamessan@debian.org
+  categories:
+    - misc
+- repo: deepin_unstable
+  subrepo: main
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.3.4
+  origversion: 0.3.4-3
+  status: outdated
+  maintainers:
+    - team+vim@tracker.debian.org
+    - jamessan@debian.org
+- repo: deepin_23
+  subrepo: community
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.9.4
+  origversion: 0.9.4-deepin
+  status: outdated
+  maintainers:
+    - xiangzelong@deepin.org
+  categories:
+    - editors
+- repo: deepin_25
+  subrepo: community
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.10.4
+  origversion: 0.10.4-7
+  status: outdated
+  maintainers:
+    - team+vim@tracker.debian.org
+    - jamessan@debian.org
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.4.4
+  origversion: 0.4.4-1
+  status: outdated
+  maintainers:
+    - team+vim@tracker.debian.org
+    - jamessan@debian.org
+  categories:
+    - misc
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: neovim
   binnames:
     - neovim
@@ -854,32 +869,6 @@
     - Apache-2.0 AND Vim AND MIT
   categories:
     - Unspecified
-- repo: parabola
-  subrepo: extra
-  srcname: neovim
-  binname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: 0.12.6-1
-  status: newest
-  summary: Fork of Vim aiming to improve user experience, plugins, and GUIs
-  licenses:
-    - Apache-2.0
-    - LicenseRef-vim
-- repo: fedora_42
-  subrepo: updates
-  srcname: neovim
-  binnames:
-    - neovim
-  visiblename: neovim
-  version: 0.11.5
-  origversion: 0.11.5-1.fc42
-  status: outdated
-  summary: Vim-fork focused on extensibility and agility
-  licenses:
-    - Apache-2.0 AND Vim AND MIT
-  categories:
-    - Unspecified
 - repo: fedora_42
   subrepo: release
   srcname: neovim
@@ -894,15 +883,15 @@
     - Apache-2.0 AND Vim AND MIT
   categories:
     - Unspecified
-- repo: fedora_43
-  subrepo: release
+- repo: fedora_42
+  subrepo: updates
   srcname: neovim
   binnames:
     - neovim
   visiblename: neovim
-  version: 0.11.4
-  origversion: 0.11.4-1.fc43
-  status: legacy
+  version: 0.11.5
+  origversion: 0.11.5-1.fc42
+  status: outdated
   summary: Vim-fork focused on extensibility and agility
   licenses:
     - Apache-2.0 AND Vim AND MIT
@@ -922,15 +911,15 @@
     - Apache-2.0 AND Vim AND MIT
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: updates
+- repo: fedora_43
+  subrepo: release
   srcname: neovim
   binnames:
     - neovim
   visiblename: neovim
-  version: 0.12.6
-  origversion: 0.12.6-1.fc44
-  status: newest
+  version: 0.11.4
+  origversion: 0.11.4-1.fc43
+  status: legacy
   summary: Vim-fork focused on extensibility and agility
   licenses:
     - Apache-2.0 AND Vim AND MIT
@@ -945,6 +934,20 @@
   version: 0.11.6
   origversion: 0.11.6-1.fc44
   status: legacy
+  summary: Vim-fork focused on extensibility and agility
+  licenses:
+    - Apache-2.0 AND Vim AND MIT
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: updates
+  srcname: neovim
+  binnames:
+    - neovim
+  visiblename: neovim
+  version: 0.12.6
+  origversion: 0.12.6-1.fc44
+  status: newest
   summary: Vim-fork focused on extensibility and agility
   licenses:
     - Apache-2.0 AND Vim AND MIT
@@ -1024,21 +1027,6 @@
     - vim
   categories:
     - app-editors
-- repo: pardus_21
-  subrepo: main
-  srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
-  visiblename: neovim
-  version: 0.4.4
-  origversion: 0.4.4-1
-  status: outdated
-  maintainers:
-    - team+vim@tracker.debian.org
-    - jamessan@debian.org
-  categories:
-    - misc
 - repo: gentoo
   srcname: app-editors/neovim
   visiblename: app-editors/neovim
@@ -1141,19 +1129,6 @@
     - jamessan@debian.org
   categories:
     - misc
-- repo: kaos
-  subrepo: main
-  srcname: neovim
-  binname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: 0.12.6-2
-  status: newest
-  summary: Vim-fork focused on extensibility and usability
-  maintainers:
-    - demm@kaosx.us
-  licenses:
-    - APACHE
 - repo: kiss_community
   subrepo: community
   srcname: neovim
@@ -1163,21 +1138,6 @@
   status: outdated
   maintainers:
     - ben@bvnf.space
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
-  visiblename: neovim
-  version: 0.10.4
-  origversion: 0.10.4-8+deb13u1
-  status: outdated
-  maintainers:
-    - team+vim@tracker.debian.org
-    - jamessan@debian.org
-  categories:
-    - misc
 - repo: liguros_stable
   srcname: app-editors/neovim
   visiblename: app-editors/neovim
@@ -1290,19 +1250,6 @@
     - vim
   categories:
     - app-editors
-- repo: nix_stable_24_11
-  srcname: neovim-unwrapped
-  visiblename: neovim-unwrapped
-  version: 0.10.2
-  origversion: null
-  status: outdated
-  summary: Vim text editor fork focused on extensibility and agility
-  maintainers:
-    - m.fellinger@gmail.com
-    - rvolosatovs@riseup.net
-  licenses:
-    - Apache-2.0
-    - Vim
 - repo: liguros_develop
   srcname: app-editors/neovim
   visiblename: app-editors/neovim
@@ -1319,6 +1266,21 @@
     - vim
   categories:
     - app-editors
+- repo: nix_unstable
+  srcname: neovim
+  visiblename: neovim
+  version: 0.12.6
+  origversion: null
+  status: newest
+  summary: Vim text editor fork focused on extensibility and agility
+  maintainers:
+    - gaetan@glepage.com
+    - nixpkgs@perchun.it
+    - khaneliman12@gmail.com
+    - marc@jakobi.dev
+  licenses:
+    - Apache-2.0
+    - Vim
 - repo: liguros_develop
   srcname: app-editors/neovim
   visiblename: app-editors/neovim
@@ -1508,18 +1470,6 @@
   licenses:
     - Apache-2.0
     - LicenseRef-vim
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: neovim
-  binname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: 0.12.6-1
-  status: newest
-  summary: Fork of Vim aiming to improve user experience, plugins, and GUIs
-  licenses:
-    - Apache-2.0
-    - LicenseRef-vim
 - repo: msys2_clang64
   srcname: mingw-w64-neovim
   binname: mingw-w64-clang-x86_64-neovim
@@ -1540,30 +1490,6 @@
   summary: Fork of Vim aiming to improve user experience, plugins, and GUIs (mingw-w64)
   licenses:
     - spdx:Apache-2.0
-- repo: parrot
-  subrepo: parrot/main
-  srcname: neovim
-  binnames:
-    - neovim
-    - neovim-runtime
-  visiblename: neovim
-  version: 0.10.4
-  origversion: 0.10.4-8+deb13u1
-  status: outdated
-  maintainers:
-    - team+vim@tracker.debian.org
-    - jamessan@debian.org
-  categories:
-    - misc
-- repo: pclinuxos
-  srcname: neovim
-  visiblename: neovim
-  version: 0.12.4
-  origversion: 0.12.4-1pclos2026
-  status: outdated
-  summary: Console Text Editor
-  categories:
-    - Editors
 - repo: msys2_ucrt64
   srcname: mingw-w64-neovim
   binname: mingw-w64-ucrt-x86_64-neovim
@@ -1603,6 +1529,19 @@
 - repo: nix_stable_24_11
   srcname: neovim
   visiblename: neovim
+  version: 0.10.2
+  origversion: null
+  status: outdated
+  summary: Vim text editor fork focused on extensibility and agility
+  maintainers:
+    - m.fellinger@gmail.com
+    - rvolosatovs@riseup.net
+  licenses:
+    - Apache-2.0
+    - Vim
+- repo: nix_stable_24_11
+  srcname: neovim-unwrapped
+  visiblename: neovim-unwrapped
   version: 0.10.2
   origversion: null
   status: outdated
@@ -1694,21 +1633,6 @@
   version: 0.12.4
   origversion: null
   status: outdated
-  summary: Vim text editor fork focused on extensibility and agility
-  maintainers:
-    - gaetan@glepage.com
-    - nixpkgs@perchun.it
-    - khaneliman12@gmail.com
-    - marc@jakobi.dev
-  licenses:
-    - Apache-2.0
-    - Vim
-- repo: nix_unstable
-  srcname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: null
-  status: newest
   summary: Vim text editor fork focused on extensibility and agility
   maintainers:
     - gaetan@glepage.com
@@ -1879,6 +1803,16 @@
   summary: Vim fork maintained by the community
   maintainers:
     - elsie19@pm.me
+- repo: starkos
+  subrepo: extra
+  srcname: neovim
+  visiblename: neovim
+  version: 0.12.6
+  origversion: 0.12.6-1
+  status: newest
+  summary: neovim
+  maintainers:
+    - starkos@disroot.org
 - repo: pacstall
   srcname: neovim-deb
   binname: neovim-deb
@@ -1889,6 +1823,82 @@
   summary: Neovim is a vim fork maintained by the community
   maintainers:
     - nionxtrix@mailbox.org
+- repo: pacstall
+  srcname: neovim-git
+  binname: neovim-git
+  visiblename: neovim-git
+  version: 629e501c
+  origversion: 629e501c-1
+  status: rolling
+  summary: Vim fork maintained by the community
+  maintainers:
+    - elsie19@pm.me
+- repo: parabola
+  subrepo: extra
+  srcname: neovim
+  binname: neovim
+  visiblename: neovim
+  version: 0.12.6
+  origversion: 0.12.6-1
+  status: newest
+  summary: Fork of Vim aiming to improve user experience, plugins, and GUIs
+  licenses:
+    - Apache-2.0
+    - LicenseRef-vim
+- repo: pardus_21
+  subrepo: main
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.4.4
+  origversion: 0.4.4-1
+  status: outdated
+  maintainers:
+    - team+vim@tracker.debian.org
+    - jamessan@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.10.4
+  origversion: 0.10.4-8+deb13u1
+  status: outdated
+  maintainers:
+    - team+vim@tracker.debian.org
+    - jamessan@debian.org
+  categories:
+    - misc
+- repo: parrot
+  subrepo: parrot/main
+  srcname: neovim
+  binnames:
+    - neovim
+    - neovim-runtime
+  visiblename: neovim
+  version: 0.10.4
+  origversion: 0.10.4-8+deb13u1
+  status: outdated
+  maintainers:
+    - team+vim@tracker.debian.org
+    - jamessan@debian.org
+  categories:
+    - misc
+- repo: pclinuxos
+  srcname: neovim
+  visiblename: neovim
+  version: 0.12.4
+  origversion: 0.12.4-1pclos2026
+  status: outdated
+  summary: Console Text Editor
+  categories:
+    - Editors
 - repo: pkgsrc_2026_2
   srcname: editors/neovim
   binname: neovim
@@ -2089,16 +2099,6 @@
   summary: hyperextensible Vim-based text editor
   categories:
     - Text Editor
-- repo: termux
-  srcname: neovim
-  binname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: null
-  status: newest
-  summary: Ambitious Vim-fork focused on extensibility and agility (nvim)
-  maintainers:
-    - tom@termux.dev
 - repo: slackbuilds
   srcname: development/neovim
   visiblename: development/neovim
@@ -2195,16 +2195,6 @@
     - anton@samokhvalov.xyz
   categories:
     - bin
-- repo: starkos
-  subrepo: extra
-  srcname: neovim
-  visiblename: neovim
-  version: 0.12.6
-  origversion: 0.12.6-1
-  status: newest
-  summary: neovim
-  maintainers:
-    - starkos@disroot.org
 - repo: t2
   srcname: neovim
   visiblename: neovim
@@ -2218,6 +2208,16 @@
     - APL
   categories:
     - extra/editor
+- repo: termux
+  srcname: neovim
+  binname: neovim
+  visiblename: neovim
+  version: 0.12.6
+  origversion: null
+  status: newest
+  summary: Ambitious Vim-fork focused on extensibility and agility (nvim)
+  maintainers:
+    - tom@termux.dev
 - repo: ubuntu_18_04
   subrepo: bionic/universe
   srcname: neovim
